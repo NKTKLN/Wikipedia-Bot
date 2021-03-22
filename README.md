@@ -4,6 +4,9 @@
 
 <h3>I had the idea of making it easier to find wikipedia articles.</h3>
 <h3>For that I decided to create this bot. This bot parses wikipedia articles using the Wikipedia api.</h3><br>
+<h3>Available languages:</h3>
+<h4>• English<br>• Russian<br>• German<br>• French<br>• Chinese<br>• Arabic</h4>
+<hr>
 <h3>Dependencies</h3>
 <code>go get github.com/PuerkitoBio/goquery</code><br>
 <code>go get -u gopkg.in/tucnak/telebot.v2</code><br>
@@ -11,9 +14,6 @@
 <h3>Start Bot (Docker)</h3>
 <code>docker build -t wikibot -f dockerfile .</code>
 <code>docker run --rm -d  wikibot:latest</code>
-<hr>
-<h3>Available languages:</h3>
-<h4>• English<br>• Russian<br>• German<br>• French<br>• Chinese<br>• Arabic</h4>
 <hr>
 <h3><a href="https://t.me/NKTKLN_Wiki_bot">Bot link.</a></h3>
 <h2>Enjoy using the bot)</h3>
