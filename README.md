@@ -16,3 +16,5 @@
 <h3>Start Bot (Docker)</h3>
 <code>docker build -t wikibot -f dockerfile .</code><br>
 <code>docker run --rm -d  wikibot:latest</code>
+<hr>
+If you have any questions, I will always be happy to answer them on the <a href="https://t.me/NKTKLN">Telegram</a>.
