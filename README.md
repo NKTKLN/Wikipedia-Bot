@@ -3,11 +3,11 @@
 
 
 <h3>I had the idea of making it easier to find wikipedia articles.</h3>
-<h3>For that I decided to create this bot. This bot parses wikipedia articles using the Wikipedia api.</h3>
+<h2>For that I decided to create this bot. This bot parses wikipedia articles using the Wikipedia api.</h3>
 <h3>Available languages:</h3>
 <h4>• English<br>• Russian<br>• German<br>• French<br>• Chinese<br>• Arabic</h4>
-<h3>Bot link: <a href="https://t.me/NKTKLN_Wiki_bot">click</a></h3>
-<h3>Enjoy using the bot)</h3>
+<h2>Bot link: <a href="https://t.me/NKTKLN_Wiki_bot">click</a></h3>
+<h2>Enjoy using the bot)</h3>
 <hr>
 <h3>Dependencies</h3>
 <code>go get github.com/PuerkitoBio/goquery</code><br>
