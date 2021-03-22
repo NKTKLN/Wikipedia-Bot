@@ -12,7 +12,7 @@
 <code>go get -u gopkg.in/tucnak/telebot.v2</code><br>
 
 <h3>Start Bot (Docker)</h3>
-<code>docker build -t wikibot -f dockerfile .</code>
+<code>docker build -t wikibot -f dockerfile .</code><br>
 <code>docker run --rm -d  wikibot:latest</code>
 <hr>
 <h3><a href="https://t.me/NKTKLN_Wiki_bot">Bot link.</a></h3>
