@@ -8,5 +8,17 @@
 <code>go get github.com/PuerkitoBio/goquery</code><br>
 <code>go get -u gopkg.in/tucnak/telebot.v2</code><br>
 
+<h3>Start Bot (Docker)</h3>
+<code>docker build -t wikibot -f dockerfile .</code>
+<code>docker run --rm -d  wikibot:latest</code>
+<hr>
+<h3>Available languages:</h3>
+<h4>• English
+• Russian
+• German
+• French
+• Chinese
+• Arabic</h4>
+<hr>
 <h3><a href="https://t.me/NKTKLN_Wiki_bot">Bot link.</a></h3>
 <h2>Enjoy using the bot)</h3>
