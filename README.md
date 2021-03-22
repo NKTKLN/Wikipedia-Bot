@@ -1,5 +1,5 @@
 # WikiParser v3.1
-![Header](https://github.com/NKTKLN/WikiParser/blob/main/attachments/wikipedia-logo.png?raw=true)
+![Header](https://github.com/NKTKLN/Wikipedia-Bot/blob/main/attachments/wikipedia-logo.png?raw=true)
 
 
 <h3>I had the idea of making it easier to find wikipedia articles.</h3>
