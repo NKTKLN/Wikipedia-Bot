@@ -3,10 +3,10 @@
 
 
 <h3>I had the idea of making it easier to find wikipedia articles.</h3>
-For that I decided to create this bot. This bot parses wikipedia articles using the Wikipedia api.
+<h3>For that I decided to create this bot. This bot parses wikipedia articles using the Wikipedia api.</h3>
 <h3>Available languages:</h3>
-• English<br>• Russian<br>• German<br>• French<br>• Chinese<br>• Arabic
-Bot link: <a href="https://t.me/NKTKLN_Wiki_bot">click</a>
+• English<br>• Russian<br>• German<br>• French<br>• Chinese<br>• Arabic<br>
+Bot link: <a href="https://t.me/NKTKLN_Wiki_bot">click</a><br>
 Enjoy using the bot)
 <hr>
 <h3>Dependencies</h3>
