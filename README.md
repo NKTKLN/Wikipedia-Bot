@@ -13,12 +13,7 @@
 <code>docker run --rm -d  wikibot:latest</code>
 <hr>
 <h3>Available languages:</h3>
-<h4>• English
-• Russian
-• German
-• French
-• Chinese
-• Arabic</h4>
+<h4>• English<br>• Russian<br>• German<br>• French<br>• Chinese<br>• Arabic</h4>
 <hr>
 <h3><a href="https://t.me/NKTKLN_Wiki_bot">Bot link.</a></h3>
 <h2>Enjoy using the bot)</h3>
