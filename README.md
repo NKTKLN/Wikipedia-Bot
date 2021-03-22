@@ -1,4 +1,4 @@
-# WikiParser v3.1
+# WikiParser v3.2
 ![Header](https://github.com/NKTKLN/Wikipedia-Bot/blob/main/attachments/wikipedia-logo.png?raw=true)
 
 
