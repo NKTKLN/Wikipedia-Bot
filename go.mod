@@ -3,7 +3,6 @@ module github.com/go-telegram-bot-api/telegram-bot-api
 go 1.16
 
 require (
-	cgt.name/pkg/go-mwclient v1.2.0 // indirect
 	github.com/Bowery/prompt v0.0.0-20190916142128-fa8279994f75 // indirect
 	github.com/PuerkitoBio/goquery v1.6.1 // indirect
 	github.com/antonholmquist/jason v1.0.0 // indirect
