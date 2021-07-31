@@ -1,4 +1,4 @@
-# Wikipedia Bot v3.2
+# Wikipedia Bot v3.3
 
 ### I had the idea of making it easier to find wikipedia articles.
 ### For that I decided to create this bot. This bot parses wikipedia articles using the Wikipedia api.
