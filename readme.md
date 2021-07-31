@@ -1,35 +1,28 @@
-<h1 align="center">Wikipedia Bot v3.2</h1>
+# Wikipedia Bot v3.2
 
-> I had the idea of making it easier to find wikipedia articles.<br>For that I decided to create this bot. This bot parses wikipedia articles using the Wikipedia api.<br><hr>
-Wikipedia Bot: <a href="https://t.me/NKTKLN_Wiki_bot">click</a>.
+### I had the idea of making it easier to find wikipedia articles.
+### For that I decided to create this bot. This bot parses wikipedia articles using the Wikipedia api.
+### Wikipedia Bot: [Click](https://t.me/NKTKLN_Wiki_bot).
 
-## 🛠 Installation
+## Run bot
 
-Please copy and paste below lines into your terminal.
+### Prerequisites
 
-```shell script
-git clone https://github.com/NKTKLN/Wikipedia-Bot
+- [Docker CE](https://docs.docker.com/engine/install/)
+- [Docker Compose](https://docs.docker.com/compose/install/)
+
+### Edit this in the .env
+
+```
+TOKEN=0123456789:abcdefghijklmnopqrstuvwxyz123456789
 ```
 
-```shell script
-docker build -t wikibot -f dockerfile .
+### And then run it with this command
+
+```
+docker-compose up -d 
 ```
 
-```shell script
-docker run --rm -d wikibot:latest
-```
+#
 
-## ✍️ Author
-
-👤 **NKTKLN**
-
-- Github: [NKTKLN](https://github.com/NKTKLN)
-- Telegram: [@NKTKLN](https://t.me/NKTKLN)
-
-## ❤️ Show your support
-
-- Please ⭐️ this repository if this project helped you!
-
-## 📝 License
-
-Copyright © 2021 [NKTKLN](https://github.com/NKTKLN).<br />
+### Copyright © 2021 [NKTKLN](https://github.com/NKTKLN).

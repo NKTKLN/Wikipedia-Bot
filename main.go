@@ -3,19 +3,24 @@ package main
 import (
 	"net/http"
 	"net/url"
+	"os"
 	"strings"
 	"time"
 
 	"github.com/PuerkitoBio/goquery"
+	"github.com/joho/godotenv"
 	tb "gopkg.in/tucnak/telebot.v2"
 )
 
 func main() {
+	if err := godotenv.Load(".env"); err != nil {
+		panic(err)
+    }
 	// connecting to telegram bot
 	b, err := tb.NewBot(tb.Settings{
 		URL: "https://api.telegram.org",
 
-		Token:  "TOKEN",
+		Token:  os.Getenv("TOKEN"),
 		Poller: &tb.LongPoller{Timeout: 10 * time.Second},
 	})
 
